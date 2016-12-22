@@ -1,0 +1,27 @@
+.module-business-list{
+  .business-table {
+    position: absolute;
+    top: 75px;
+    left: 200px;
+    right: 0;
+  }
+  .business-queryBox {
+    margin-bottom: 20px;
+    float: left;
+  }
+  .create-company {
+    float: left;
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    color: #fff;
+    font-size: 12px;
+    background-color: #29c7ca;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 3px;
+  }
+  .ant-input {
+    border: none;
+  }
+}
