@@ -1,6 +1,3 @@
-/**
- * Created by jin on 16/3/16.
- */
 const path = require('path');
 const webpack = require('webpack');
 const commonsPlugin = new webpack.optimize.CommonsChunkPlugin({
